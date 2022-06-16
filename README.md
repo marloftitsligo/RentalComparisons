@@ -1,4 +1,4 @@
-# TubbercurryRentalComparisons <BR>
+# Tubbercurry Rental Comparisons <BR>
 
 ## This notebook scrapes current data from DAFT.IE on Property for Rent <BR>
 It produces a table and a bar chart of Average Rental Prices x County (excluding Dublin) <BR>
