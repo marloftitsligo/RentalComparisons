@@ -1,0 +1,119 @@
+,beds,county,house_address,house_type,price
+1,4 Bed,carlow,"Wolseley park, Tullow, Co. Carlow",House,2000.0
+3,3 Bed,carlow,"Ballynattin, Borris, Co. Carlow",House,1100.0
+6,4 Bed,cavan,"117 College St, Cavan, Co. Cavan",House,1600.0
+7,3 Bed,cavan,"3 Claremont Cockhill h12 wa44, Cavan, Co. Cavan",House,2000.0
+16,3 Bed,clare,"Lisheen, Ballynacally, Co. Clare",House,1500.0
+18,3 Bed,clare,"Finian Park, Shannon, Co. Clare",House,1300.0
+23,3 Bed,clare,"Main Street, Kilmihil, Co. Clare",House,800.0
+24,4 Bed,clare,"1 Rathbán, Tulla road, Ennis, Co. Clare",House,1300.0
+25,3 Bed,cork,"Lower Farran, Farran, Co. Cork",House,2000.0
+26,4 Bed,cork,"Kilcully, Rathpeacon, Co. Cork",House,1325.0
+27,3 Bed,cork,"12 Silverwood, Ballintemple, Co. Cork",House,1731.0
+28,4 Bed,cork,"1 Heatherton Park, South Douglas Road, Douglas, Co. Cork",House,1650.0
+29,4 Bed,cork,"Beauvoir, Cork Road, Carrigaline, Co. Cork",House,1700.0
+31,3 Bed,cork,"Kingsbury, Douglas East, Douglas, Co. Cork",House,1463.0
+34,3 Bed,cork,"Glashaboy East, Carrignavar, Co. Cork",House,1200.0
+37,4 Bed,donegal,"Mountain Top area
+Letterkenny, Letterkenny, Co. Donegal",House,1250.0
+38,4 Bed,donegal,"48 Thornberry, Letterkenny, Co. Donegal",House,1200.0
+40,4 Bed,donegal,"The Grange, Glencar, Letterkenny, Co. Donegal",House,1300.0
+42,3 Bed,donegal,"33 parkview drive, gortlee, Letterkenny, Co. Donegal",House,1250.0
+43,3 Bed,donegal,"Creesloughbeg, Creeslough, Co. Donegal",House,950.0
+44,3 Bed,donegal,"44 Whitethorn Grove, Letterkenny, Co. Donegal",House,1000.0
+45,3 Bed,donegal,"Birchill Upper, Creeslough, Co. Donegal",House,800.0
+47,3 Bed,donegal,"12 cannon view letterkenhy , Letterkenny, Co. Donegal",House,900.0
+50,4 Bed,donegal,"Magheraclogher, Derrybeg, Co. Donegal",House,850.0
+51,4 Bed,donegal,"94 Ashfield, Letterkenny, Co. Donegal",House,1100.0
+52,4 Bed,donegal,"6 Admiran Park, Stranorlar, Co. Donegal",House,950.0
+55,4 Bed,donegal,"20 White Maple Avenue, Bundoran, Co. Donegal",House,1200.0
+65,3 Bed,galway,"Apartment 118, Sraith Fhada, Doughiska, Co. Galway",House,2200.0
+66,3 Bed,galway,"Lavally, Craughwell, Co. Galway",House,1500.0
+67,4 Bed,galway,"Tuam, Co. Galway",House,1500.0
+68,3 Bed,galway,"Millbrook, Milltown, Co. Galway",House,1200.0
+69,4 Bed,galway,"Birmingham, Tuam, Co. Galway",House,1500.0
+73,3 Bed,galway,"Ros Caoin, Roscam, Co. Galway",House,1600.0
+75,4 Bed,galway,"Boireann Bheag, Roscam, Co. Galway",House,2000.0
+80,3 Bed,kerry,"24 Ardmoniel Heights, Killorglin, Co. Kerry",House,1300.0
+81,3 Bed,kerry,"5 Beechwood Grove, Gortagass, Kenmare, Co. Kerry",House,2500.0
+82,4 Bed,kerry,"Clogher, Lixnaw, Co. Kerry",House,900.0
+83,3 Bed,kerry,"28 Cois Laoi, Tralee, Co. Kerry",House,1500.0
+84,3 Bed,kerry,"The Paddocks, Fenit, Co. Kerry",House,1750.0
+85,4 Bed,kerry,"Clanderry, Causeway, Co. Kerry",House,900.0
+87,4 Bed,kerry,"Sunnyhill lower , Killarney, Co. Kerry",House,2000.0
+89,4 Bed,kerry,"Coolick
+Kilcummin, Killarney, Co. Kerry",House,1300.0
+90,3 Bed,kerry,"Ballygarron, Spa, Tralee, Co. Kerry",House,1500.0
+94,3 Bed,kildare,"The Way, Craddockstown, Naas, Co. Kildare",House,1400.0
+95,3 Bed,kildare,"Priory Chase, Celbridge, Co. Kildare",House,1900.0
+96,3 Bed,kildare,"Clonshanbo, Donadea, Naas, Co. Kildare",House,2100.0
+97,4 Bed,kildare,"5 Kilbelin Lawns, Newbridge, Co. Kildare",House,2500.0
+99,3 Bed,kildare,"Meadowbrook Dr 1A, Maynooth, Co. Kildare",House,989.0
+102,4 Bed,kildare,"11 Cnoc Na Greine Woods, Kilcullen, Co. Kildare",House,1800.0
+104,3 Bed,kildare,"The Glen, Celbridge, Co. Kildare",House,1455.0
+105,4 Bed,kildare,"1A The Crescent, Riverside Manor, Kilcullen, Co. Kildare",House,1900.0
+112,3 Bed,kilkenny,"Ballyspellan, Johnstown, Co. Kilkenny",House,850.0
+115,3 Bed,kilkenny,"Killeen, Mullinavat, Co. Kilkenny",House,1800.0
+118,3 Bed,kilkenny,"Balief, Clonmantagh, Co. Kilkenny",House,1200.0
+124,4 Bed,leitrim,"Lisnagot, Carrick on Shannon, Carrick-on-Shannon, Co. Leitrim",House,1400.0
+125,3 Bed,leitrim,"main street, Keshcarrigan, Co. Leitrim",House,950.0
+128,3 Bed,leitrim,"4, River Meadow, Dromod, Co. Leitrim",House,1000.0
+139,4 Bed,limerick,"Curraheen, Askeaton, Co. Limerick",House,1550.0
+143,4 Bed,limerick,"Drombanna, Co. Limerick",House,2300.0
+149,3 Bed,louth,"Edentober, Dundalk, Co. Louth",House,1400.0
+152,3 Bed,louth,"4 Peter Street, Dundalk, Co. Louth",House,1500.0
+153,4 Bed,louth,"62 glenwood, Dundalk, Co. Louth",House,1400.0
+160,4 Bed,louth,"9 Carlinn Heath, Mullaharlin Road, Dundalk, Co. Louth",House,1700.0
+162,3 Bed,louth,"35 Stamanaran, Old Golf Links Road, Blackrock, Co. Louth",House,1750.0
+163,4 Bed,louth,"The Towers, Point Road, Dundalk, Louth, Co. Louth",House,2400.0
+166,4 Bed,mayo,"Sarsfield Crescent, Charlestown, Co. Mayo",House,1200.0
+167,4 Bed,mayo,"26 Fairways, Castlebar, Co. Mayo",House,1650.0
+169,3 Bed,mayo,"Belderrig, Ballina, Belderrig, Co. Mayo",House,650.0
+172,3 Bed,mayo,"18 Ashwood Glade, Westport, Co. Mayo",House,1150.0
+173,3 Bed,mayo,"Riverwalk, Crossmolina, Co. Mayo",House,1000.0
+176,3 Bed,mayo,"SHRAIGH HILL, BUNNAHOWEN, Belmullet, Co. Mayo",House,800.0
+178,3 Bed,meath,"7 Oak Park, Coill Fada, Longwood, Co. Meath",House,1500.0
+191,3 Bed,meath,"Bellewstown, Bellewstown, Co. Meath",House,1600.0
+193,4 Bed,meath,"Corballis, Donore, Drogheda, Co. Meath",House,1700.0
+194,3 Bed,offaly,"7 Louisa Crescent, Redwood, Tullamore, Co. Offaly",House,1650.0
+196,3 Bed,offaly,"Spollanstown Wood, Tullamore, Co. Offaly",House,1595.0
+198,4 Bed,offaly,"The Priory, Kilcormac, Co. Offaly",House,1200.0
+201,3 Bed,roscommon,"15 Brooklawn, Ballaghaderreen, Co. Roscommon",House,950.0
+202,3 Bed,roscommon,"Milltown, Castleplunket, Castleplunkett, Co. Roscommon",House,1100.0
+203,3 Bed,roscommon,"12 Priory Park, Ballaghaderreen, Co. Roscommon",House,875.0
+205,3 Bed,roscommon,"Cherrytrees, Kilbride, Carrick-on-Shannon, Co. Roscommon",House,900.0
+208,3 Bed,roscommon,"Laragh, Ballintubber, Co. Roscommon",House,1100.0
+210,3 Bed,roscommon,"Moore, Athlone, Co. Roscommon",House,1400.0
+214,3 Bed,sligo,"Cois Abhainn, Charlestown, Co. Mayo",House,1000.0
+218,4 Bed,sligo,"10 beechwood court, oldbundoran Road, Sligo, Co. Sligo",House,1400.0
+220,4 Bed,sligo,"Meadow Brook Mountain Road, Tubbercurry, Co. Sligo",House,900.0
+228,3 Bed,tipperary,"Upper Main Street, Borrisoleigh, Co. Tipperary",House,1100.0
+229,4 Bed,tipperary,"Loughbeg, Thurles, Co. Tipperary",House,1150.0
+230,3 Bed,tipperary,"summerhill nenagh, Nenagh, Co. Tipperary",House,1300.0
+231,3 Bed,waterford,"West Lodge, Ballyduff Upper, Ballyduff, Co. Waterford",House,1300.0
+232,4 Bed,waterford,"Bath street, Co. Waterford",House,2400.0
+234,3 Bed,waterford,"37 Lios An Oir Lismore Co. Waterford, Lismore, Co. Waterford",House,1200.0
+236,3 Bed,waterford,"Fairfield Park, Old Tramore Road, Co. Waterford",House,2300.0
+238,3 Bed,waterford,"Lismore Park, Co. Waterford",House,2250.0
+239,3 Bed,waterford,"Holly Crescent, Templars Hall, Beside Waterford, Co. Waterford",House,1100.0
+241,4 Bed,waterford,"Closegate, Co. Waterford",House,1600.0
+242,3 Bed,waterford,"Holly Walk, Templars Hall, Co. Waterford",House,1600.0
+243,3 Bed,waterford,"HollyWalk, Templars Hall, Co. Waterford",House,1400.0
+244,4 Bed,waterford,"HollyWalk, Templars Hall, Co. Waterford",House,1200.0
+245,3 Bed,waterford,"Claremont Road, Co. Waterford",House,2000.0
+246,3 Bed,waterford,"Templars Hall, Kilbarry, Co. Waterford",House,1200.0
+248,3 Bed,westmeath,"Killachonna, Mount Temple Road, Moate, Co. Westmeath",House,1500.0
+257,4 Bed,wexford,"4 Willow Gargens, Coolroe Ford, Coolroe, Kilmuckridge, Co. Wexford",House,1800.0
+258,4 Bed,wexford,"1 Scholar's Rest, Gorey, Co. Wexford",House,1200.0
+259,3 Bed,wexford,"Cromwellsfort, Mullgannon, Wexford Town, Co. Wexford",House,1200.0
+260,3 Bed,wexford,"Saint Martha, Bargy Commons, Murrintown, Co. Wexford",House,1300.0
+261,3 Bed,wexford,"Hazelwood, Bridgetown, Co. Wexford",House,950.0
+262,3 Bed,wexford,"Richfield, Duncormick, Co. Wexford",House,2000.0
+263,3 Bed,wexford,"Garrywilliam, Crossabeg, Co. Wexford",House,1300.0
+264,4 Bed,wexford,"Ballynellard, Blackwater, Co. Wexford",House,1400.0
+265,3 Bed,wexford,"Annagh Long, Gorey, Co. Wexford",House,1250.0
+266,3 Bed,wexford,"Clonard Village, Wexford Town, Co. Wexford",House,1250.0
+270,3 Bed,wicklow,"WEAVER'S SQUARE, BALTINGLASS, Baltinglass, Co. Wicklow",House,1900.0
+271,3 Bed,wicklow,"Moyntiagh, Rathdrum, Co. Wicklow",House,1630.0
+272,4 Bed,wicklow,"Ballynerrin Road, Ballynerrin Road, Wicklow Town, Co. Wicklow",House,2500.0
+279,4 Bed,wicklow,"2 The Courtyard, Enniskerry, Co. Wicklow",House,3500.0

@@ -1,0 +1,33 @@
+,beds,county,house_address,house_type,price
+7,3 Bed,cavan,"Ballinagh1, Ballinagh, Co. Cavan",House,1200.0
+9,4 Bed,cavan,"117 College St, Cavan, Co. Cavan",House,1600.0
+10,3 Bed,cavan,"3 Claremont Cockhill h12 wa44, Cavan, Co. Cavan",House,2000.0
+41,4 Bed,donegal,"Mountain Top area
+Letterkenny, Letterkenny, Co. Donegal",House,1250.0
+43,3 Bed,donegal,"44 Whitethorn Grove, Letterkenny, Co. Donegal",House,1000.0
+44,3 Bed,donegal,"Creesloughbeg, Creeslough, Co. Donegal",House,950.0
+45,4 Bed,donegal,"48 Thornberry, Letterkenny, Co. Donegal",House,1200.0
+47,3 Bed,donegal,"Birchill Upper, Creeslough, Co. Donegal",House,800.0
+48,4 Bed,donegal,"Magheraclogher, Derrybeg, Co. Donegal",House,850.0
+49,4 Bed,donegal,"94 Ashfield, Letterkenny, Co. Donegal",House,1100.0
+50,4 Bed,donegal,"6 Admiran Park, Stranorlar, Co. Donegal",House,950.0
+52,4 Bed,donegal,"Apple Lodge, Covehill, Port Road, Letterkenny, Co. Donegal",House,600.0
+57,3 Bed,donegal,"Aras Ui Dhomhnaill, Milford, Co. Donegal",House,1100.0
+58,3 Bed,donegal,"Drumnaskea, Letterkenny, Co. Donegal",House,850.0
+120,3 Bed,leitrim,"main street, Keshcarrigan, Co. Leitrim",House,950.0
+125,3 Bed,leitrim,"12 Castle Street, Manorhamilton, Co. Leitrim",House,770.0
+127,3 Bed,leitrim,"4, River Meadow, Dromod, Co. Leitrim",House,1000.0
+162,3 Bed,mayo,"Carrownahaltore, Ballyglass, Co. Mayo",House,900.0
+164,3 Bed,mayo,"Riverwalk, Crossmolina, Co. Mayo",House,1000.0
+166,3 Bed,mayo,"45 Convent Hill Avenue, Ballina, Co. Mayo",House,1000.0
+167,4 Bed,mayo,"Sarsfield Crescent, Charlestown, Co. Mayo",House,1200.0
+170,3 Bed,mayo,"SHRAIGH HILL, BUNNAHOWEN, Belmullet, Co. Mayo",House,800.0
+194,3 Bed,roscommon,"15 Brooklawn, Ballaghaderreen, Co. Roscommon",House,950.0
+199,3 Bed,roscommon,"Cherrytrees, Kilbride, Carrick-on-Shannon, Co. Roscommon",House,900.0
+201,4 Bed,roscommon,"15, The Waterfront, Tarmonbarry, Co. Longford",House,1200.0
+202,3 Bed,roscommon,"Kildangan, Ballaghaderreen, Co. Roscommon",House,800.0
+204,3 Bed,roscommon,"Laragh, Ballintubber, Co. Roscommon",House,1100.0
+206,3 Bed,roscommon,"Moore, Athlone, Co. Roscommon",House,1400.0
+208,4 Bed,sligo,"10 beechwood court, oldbundoran Road, Sligo, Co. Sligo",House,1400.0
+212,4 Bed,sligo,"63. The Fairways, Tubbercurry, Co. Sligo",House,1200.0
+213,4 Bed,sligo,"Meadow Brook Mountain Road, Tubbercurry, Co. Sligo",House,900.0
